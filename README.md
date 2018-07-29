@@ -1,7 +1,6 @@
-# Machine-Learning-Courses
+# Machine-Learning-Resources
 My records for machine learning studies
 
-## Online Courses
 **MOOC Platforms**
 
 - [Coursera](https://www.coursera.org/)
