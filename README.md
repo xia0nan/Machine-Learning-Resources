@@ -1,7 +1,7 @@
 # Machine-Learning-Resources
 My records for machine learning studies
 
-**MOOC Platforms**
+## MOOC Platforms
 
 - [Coursera](https://www.coursera.org/)
 
@@ -11,7 +11,7 @@ My records for machine learning studies
 
 - [Udemy](https://www.udemy.com/topic/machine-learning/)
 
-**GitHub Repos**
+## GitHub Repos
 
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
@@ -27,7 +27,7 @@ My records for machine learning studies
 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
-**University Open Courses**
+## University Open Courses
 
 - [Stanford Online](https://lagunita.stanford.edu/)
 
@@ -37,7 +37,7 @@ My records for machine learning studies
 
 - [HarvardX](https://online-learning.harvard.edu/)
 
-**Industry Leaders**
+## Industry Leaders
 
 - [Facebook AI](https://facebook.ai/developers/tools)
 
@@ -49,7 +49,7 @@ My records for machine learning studies
 
 - [AWS Training](https://aws.amazon.com/training/course-descriptions/#portfolio)
 
-**Coding Practices**
+## Coding Practices
 
 - [Google's Python Class](https://developers.google.com/edu/python/)
 
@@ -69,7 +69,7 @@ My records for machine learning studies
 
 - [CodeWars](https://www.codewars.com/)
 
-**Competitions**
+## Competitions
 
 - [Kaggle](https://www.kaggle.com/)
 
@@ -79,13 +79,13 @@ My records for machine learning studies
 
 - [Top Coder for Data Science](https://www.topcoder.com/community/data-science/)
 
-**Blogs**
+## Blogs
 
 - [Towards Data Science](https://towardsdatascience.com/)
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
-**Credential Programs**
+## Credential Programs
 
 - [Deep Learning Specialization by deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
@@ -95,13 +95,13 @@ My records for machine learning studies
 
 - [Data Science Certificate Program by Harvard](https://www.edx.org/professional-certificate/harvardx-data-science)
 
-**Tutorials**
+## Tutorials
 
 - [fast.ai](http://www.fast.ai/)
 
 - [QwikLabs - Paid](https://google.qwiklabs.com/)
 
-**Conferences**
+## Conferences
 
 - [CVPR](http://cvpr2018.thecvf.com/)
 
@@ -121,17 +121,17 @@ My records for machine learning studies
 
 - [ICLR](https://iclr.cc/)
 
-**Presentations**
+## Presentations
 
 - [Machine Learning at Netflix](https://www.slideshare.net/dominodatalab/machine-learning-at-netflix)
 
-**Talks**
+## Talks
 
 - [Andrew Ng - The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs)
 
 - ["Nuts and bolts of building AI applications using Deep Learning" by Andrew Ng](https://www.youtube.com/watch?v=wjqaz6m42wU)
 
-**Mathmetics & Statistics**
+## Mathmetics & Statistics
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
@@ -143,7 +143,7 @@ My records for machine learning studies
 
 - [Differential Calculus](https://www.khanacademy.org/math/calculus-home/differential-calculus)
 
-**Books**
+## Books
 
 - [Deep Learning](http://www.deeplearningbook.org/)
 
@@ -151,13 +151,13 @@ My records for machine learning studies
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-*References on winning Competitions*
+### *References on winning Competitions*
 
 - [How to Out-Compete On a Data Science Competition](https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5)
 
 - [DATA SCIENCE COMPETITIONS](https://www.analyticsvidhya.com/blog/tag/data-science-competitions/)
 
-*Ad Hoc ML Articles/Videos*
+### *Ad Hoc ML Articles/Videos*
 
 - [What Is The Best Way To Learn Machine Learning Without Taking Any Online Courses?](https://www.forbes.com/sites/quora/2017/03/22/what-is-the-best-way-to-learn-machine-learning-without-taking-any-online-courses/#6ee75f565d87)
 
